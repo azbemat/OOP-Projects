@@ -1,0 +1,8 @@
+﻿  Autoshop.cpp
+  Car.cpp
+  Racecar.cpp
+  Utilities.cpp
+  w6_p2.cpp
+C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W06\W6_part2\w6_p2.cpp(46,34): warning C4101: 'invalid': unreferenced local variable
+  Generating Code...
+  W6_part2.vcxproj -> C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W06\W6_part2\Debug\W6_part2.exe
