@@ -1,0 +1,22 @@
+﻿  Book.cpp
+  Movie.cpp
+  SpellChecker.cpp
+  w5_p2.cpp
+C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W05\W5_part2\Collection.h(82,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W05\W5_part2\Collection.h(81): message : while compiling class template member function 'std::ostream &sdds::operator <<(std::ostream &,const sdds::Collection<sdds::Book> &)'
+C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W05\W5_part2\w5_p2.cpp(166): message : see reference to function template instantiation 'std::ostream &sdds::operator <<(std::ostream &,const sdds::Collection<sdds::Book> &)' being compiled
+C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W05\W5_part2\w5_p2.cpp(54): message : see reference to class template instantiation 'sdds::Collection<sdds::Book>' being compiled
+C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W05\W5_part2\Collection.h(75,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W05\W5_part2\Collection.h(74): message : while compiling class template member function 'T *sdds::Collection<T>::operator [](const std::string &) const'
+          with
+          [
+              T=sdds::Movie
+          ]
+C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W05\W5_part2\w5_p2.cpp(307): message : see reference to function template instantiation 'T *sdds::Collection<T>::operator [](const std::string &) const' being compiled
+          with
+          [
+              T=sdds::Movie
+          ]
+  Generating Code...
+C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W05\W5_part2\Book.cpp(27): warning C4172: returning address of local variable or temporary
+  W5_part2.vcxproj -> C:\Users\anasb\Desktop\Sem - 4\OOP345 Asam\Workshops\W05\W5_part2\Debug\W5_part2.exe
