@@ -1,0 +1,15 @@
+/***************************************************************
+Name:	Anas Zakariyah Bemat
+ID:	165239187
+email:	azbemat@myseneca.ca
+Date:	11-29-20
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+****************************************************************/
+
+While doing this workshop, I learned about multithreading. How to process partitioned data into multiple threads. A thread can run concurrently with other threads and share the same address. In this workshop, I used three thread two child and one main divided them equally to complete the process. Next, when the threads completed their task, they are joined with the parent threads. Moreover, I utilize the std::bind, which bind a function to its arguments, I used them to create two child thread in code function. We process a binary file with multiple lines, so it is a better approach to split them into threads. A binary file was used to write a set of characters and read a set of characters from a file. I used this functions to open and read file.
+std::ifstream fileName(file, std::ios::binary);
+fileName.read(text, nbytes);
+ofstream fileName(file, ios::binary);
+fileName.write(text, nbytes);
+The bind function was useful, we can manipulate an existing function’s argument order or fix some. In this workshop, we use the converter function with arguments in a std::bind. It was used to create a multi-thread in code function. There are many benefits of multithreading like resource sharing, allows execution of multiple parts of a program at the same time, improve performance and concurrency, etc. Multiple threads were useful in this workshop, I accomplish by splitting the processing workload by using threads to process the file, when the workload is more it is better to split the process into multi-thread.
