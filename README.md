@@ -1,6 +1,7 @@
 # OOP345
 
-# Assembly Line Project
+# Project 
+## Assembly Line 
 
 Requirements
 https://github.com/mksiq/OOP-Project-1
@@ -13,6 +14,16 @@ g++ -std=c++17 -Wall -o asssembly-line ms3.cpp CustomerOrder.cpp LineManager.cpp
 ## To Run
 ./asssembly-line Stations1.txt Stations2.txt CustomerOrders.txt AssemblyLine.txt
 
-# Workshop
+# Workshops
 
-OOP workshops
+Object Oriented Programming Concepts implemented
+
+1. Across Translation Units
+2. Move and Copy Semantics
+3. Templates
+4. Containers
+5. Lambda Expressions
+6. STL Containers
+7. STL Algorithms
+8. Smart Pointers
+9. Multi-Threading
