@@ -4,7 +4,7 @@
 ## Assembly Line 
 
 Requirements
-https://github.com/mksiq/OOP-Project-1
+https://github.com/azbemat/AssemblyLine-Documentation
 
 ## To compile
 Use gcc ^9.1.0
