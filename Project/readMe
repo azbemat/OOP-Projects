@@ -13,9 +13,9 @@ To Run
 ./[Project name] Stations1.txt Stations2.txt CustomerOrders.txt AssemblyLine.txt
 
 
---------------
-PROGRAM OUTPUT
---------------
+-----------------------------------------------
+PROGRAM OUTPUT according to ms3.cpp tester file
+-----------------------------------------------
 
 ========================================
 =         Stations (summary)           =
